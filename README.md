@@ -1,4 +1,10 @@
 # apnacollege-demo
 This is my first Git Repository.
-<br>
-Author - Princce Kumar
+
+Author - Prince Kumar
+
+# Teacher 
+Shardha Khapra
+
+# Student 
+Delta Studet
